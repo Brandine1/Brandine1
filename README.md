@@ -9,10 +9,10 @@
 ### social media:
 
   <div id="badges">
-    <a href="https://instagram.com/_brandine" target="_blank">
-      <img src="https://icons8.com/icon/32309/instagram" width="40" height="40" alt="inst" />
-    </a>
     <a href="https://t.me/brandinespuckler" target="_blank">
-      <img src="https://icons8.com/icon/TCnKnYZFoOzM/telegram-app" width="40" height="40" alt="telegram" />
+      <img src="https://img.icons8.com/ios/50/F25081/telegram-app.png" width="40" height="40" alt="telegram" />
+    </a>
+    <a href="https://instagram.com/_brandine" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/50/F25081/instagram-new--v1.png" width="40" height="40" alt="inst" />
     </a>
   </div>
