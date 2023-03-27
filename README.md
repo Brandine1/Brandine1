@@ -2,7 +2,7 @@
 
 ### about me:
 
-6 months web development and design experience using JavaScript, HTML 4.0/5.0, CSS, and UX|UI technologies. More than 3 years of experience in interface design, development and testing of web and mobile applications.
+6 months web development and design experience using JavaScript, HTML, CSS, and UX|UI technologies. More than 3 years of experience in interface design, development and testing of web and mobile applications.
 
 ---
 
